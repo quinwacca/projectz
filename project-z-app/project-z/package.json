@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "bcrypt": "^3.0.4",
+        "bcrypt": "^5.0.0",
         "node-sass": "^4.11.0",
         "project-z-data": "file:../../project-z-data",
         "project-z-errors": "file:../../project-z-errors",
