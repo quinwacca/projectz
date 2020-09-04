@@ -4,7 +4,7 @@
     "private": true,
     "dependencies": {
         "bcrypt": "^3.0.4",
-        "node-sass": "^4.11.0",
+        "node-sass": "^4.13.1",
         "project-z-data": "file:../../project-z-data",
         "project-z-errors": "file:../../project-z-errors",
         "project-z-validation": "file:../../project-z-validation",
